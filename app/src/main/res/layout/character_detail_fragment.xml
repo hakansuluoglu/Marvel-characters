@@ -28,18 +28,21 @@
 
         <TextView
             android:id="@+id/txt_detail_name"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
             android:background="@color/transparent"
             android:gravity="center"
             android:letterSpacing="0.15"
-            android:textColor="@color/colorAccent"
-            android:textSize="16sp"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
             android:textStyle="bold"
-            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="@+id/btn_bookmark"
+            app:layout_constraintEnd_toStartOf="@+id/btn_bookmark"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="@+id/img_detail_thumbnail"
-            app:layout_constraintTop_toTopOf="@+id/guideline"
+            app:layout_constraintTop_toTopOf="@+id/btn_bookmark"
             tools:text="TextView" />
 
         <ImageView
