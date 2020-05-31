@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699278056988",
+    "firebase_url": "https://marvel-a993c.firebaseio.com",
+    "project_id": "marvel-a993c",
+    "storage_bucket": "marvel-a993c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699278056988:android:dca2cd86cba81e360989d9",
+        "android_client_info": {
+          "package_name": "com.hakan.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699278056988-tkni43oa8m94robj75fts2nrab6cs259.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTt7L-9vGDIUz2RUQtsuaT-HNMbD9A94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699278056988-tkni43oa8m94robj75fts2nrab6cs259.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
