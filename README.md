@@ -13,10 +13,10 @@ roman ile limitlendirilmeli. ✅
 - Uygulama geliştirilirken fragment yapısı ve herhangi bir design pattern kullanılması
 gerekmektedir. ✅ **MVVM**
 - Local storage ile favori karakter sayfası ✅ **Basit bir yapı ile yapıldı. Best practice değil. (Paperdb library)**
-- UI/UX ve Animasyon ✅ **Dark Theme, App icon, Item Selector, Collapsing Toolbar Layout , Circle Image **
-- RxAndroid ❓**Coroutines + Flow **
-- Dependency Injection ✅**Dagger2 **
-- Architecture components kullanımı ✅ **LiveData, ViewModel , LifeCycles **
+- UI/UX ve Animasyon ✅ **Dark Theme, App icon, Item Selector, Collapsing Toolbar Layout , Circle Image**
+- RxAndroid ❓**Coroutines + Flow**
+- Dependency Injection ✅**Dagger2**
+- Architecture components kullanımı ✅ **LiveData, ViewModel , LifeCycles**
 - Analytics integration  ❓**Firebase analytics entegre edildi, sadece app açılış bilgisi gönderiliyor** 
 - Unit test ❌ 
 
